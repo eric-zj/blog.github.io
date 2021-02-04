@@ -452,6 +452,12 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
+#particles-js {
+  width: 100%;
+  position: absolute;
+  margin-left: -28%;
+  z-index: -1;
+}
 body {
   margin: 0;
   height: 100%;
